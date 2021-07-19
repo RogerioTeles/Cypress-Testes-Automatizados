@@ -1,3 +1,4 @@
-# curso-cypress-intermediario
+Projeto de testes automatizados criado no curso de automação de testes com Cypress.
 
-[Curso intermediário de automação de testes com Cypress](http://talkingabouttesting.coursify.me/courses/testes-automatizados-com-cypress-intermediario) da Escola Talking About Testing.
+- Nele foram feitos testes a partir da interface de usuário e testes utilizando APIs.
+- O ambiente de testes foi feito com Docker, e foi consumido o GitLab community
